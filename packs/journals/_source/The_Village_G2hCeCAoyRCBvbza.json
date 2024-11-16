@@ -1,0 +1,403 @@
+{
+  "name": "The Village",
+  "pages": [
+    {
+      "name": "[1] Cottar Durel Arsarl",
+      "type": "text",
+      "text": {
+        "content": "<p>Durel believes that he is truly blessed by Peoni. His eldest daughter, Mena, has visions of the goddess and those that come to visit his home experience a soothing feeling in her presence. Durel sees nothing wrong in asking for small donations from visitors. He would like nothing more than to take Mena to Thay to meet the Pontiff and leave the farming to others.</p>\n<p>What no one has realized is that Mena’s latent psionic powers give the little girl her particular aura. Her powers are benevolent at her current age but, as she enters puberty, her untrained mental energies will become more confused and dangerous, possibly lethal to those nearby.</p>",
+        "format": 1
+      },
+      "_id": "iDGEH9rSI3qb2jOh",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!G2hCeCAoyRCBvbza.iDGEH9rSI3qb2jOh"
+    },
+    {
+      "name": "[2] Half-Villein Netokra Haral",
+      "type": "text",
+      "text": {
+        "content": "<p>Netokra is a woman with two lives. She doesn’t mind her lump of a husband; he leaves her alone and helps care for their four children. Her favorite time of year is Savor, when a detachment of guardsmen arrives from Getha Keep to help with the Big Hunt. While her husband earns extra money helping with the hounds, she carries on an affair with the melbrin of the guard, Vorkel Darion (q.v., <a title=\"Getha\" href=\"https://foundryvtt.com/packages/hm-loc-getha\">Getha Keep</a>, <em>Keep Barracks</em>).</p>",
+        "format": 1
+      },
+      "_id": "32tTqDuCssdPmMIY",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!G2hCeCAoyRCBvbza.32tTqDuCssdPmMIY"
+    },
+    {
+      "name": "[3] Half-Villein Aratha Krandar",
+      "type": "text",
+      "text": {
+        "content": "<p>Aratha is a victim of his uncle Taran’s (@UUID[JournalEntry.G2hCeCAoyRCBvbza.JournalEntryPage.jQyprkwCukEUvTul]{[14] Villein (Reeve) Taran Krandar}) blackmail. Last year Ledis Haral (@UUID[JournalEntry.G2hCeCAoyRCBvbza.JournalEntryPage.ShxgV6EpPIjXoJf3]{[11] Half-Villein Ledis Haral}) started a dispute about a piece of wooded land south of the village. Aratha had planned to use that land as his daughter’s dowry and he asked his uncle to help settle the matter as the reeve. What Aratha had not counted on was that the price for Taran’s help was that Aratha’s daughter Rosynnë (14) had to marry Taran’s son Ursen (age 15) with the woodlot as dowry. To add insult to injury, Taran offered a pittance for a brideprice, knowing that Aratha had little choice but to accept.</p>\n<p>Aratha knows that he will have to go through with the marriage, since Taran has never let one of his victims go. Aratha is bitter and has begun entertaining thoughts of arranging his uncle’s accidental demise.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "SHs7x3DgeZzT6z6h",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!G2hCeCAoyRCBvbza.SHs7x3DgeZzT6z6h"
+    },
+    {
+      "name": "[4] Half-Villein (Woodward) Gerl Tyun",
+      "type": "text",
+      "text": {
+        "content": "<p>The large muscular Gerl is called “the Swan.” He has a certain quality that ladies admire and cuts a wide swath through the servant’s quarters during the Big Hunt. His wife, on the other hand, is as attractive as a festering boil and is barren to boot.</p>",
+        "format": 1
+      },
+      "_id": "3G2wGJJ0gdNcYrPU",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!G2hCeCAoyRCBvbza.3G2wGJJ0gdNcYrPU"
+    },
+    {
+      "name": "[5] Half-Villein Alona Dyren",
+      "type": "text",
+      "text": {
+        "content": "<p>Alona is the local alewife and her front porch is the village gathering spot. She is an incurable gossip and storyteller. While she refuses to extend credit (even to her neighbors), she is well liked in the village. She brews about 50 gallons of ale every ten-day. Everyone in the area prizes her rosemary-spiced ale; even Sir Marby enjoys a mug or two on a warm evening.</p>\n<p>Alona has arranged her schedule so that a batch of fresh brew is ready for the Sapelah (Peonian lay mass). The morning the ale is ready, she sends an “ale tithe” to the manor. She knows that she is infringing on guild privileges by sellin her ale and does what she can to stay in Sir Marby’s good graces. For his part, Marby turns a blind eye to Alona’s commerce since the nearest inn is in Hyzevel, too far for the farmers to walk.</p>\n<p>After Father Birard’s service (see <a title=\"Hyzevel Manor\" href=\"https://foundryvtt.com/packages/hm-loc-hyzevel\">Hyzevel Manor</a>, <em>[15] Chapel of Peoni</em>), villagers congregate on Alona’s front porch to sample her brew and relax. She makes sure that the Beadle, Lanasai Nelt (@UUID[JournalEntry.G2hCeCAoyRCBvbza.JournalEntryPage.iopuaPf5b9Qe6Zu9]{[13] Half-Villein (Beadle) Lanasai Nelt}) is on hand to quell the inevitable quarrel between Ledis Haral (@UUID[JournalEntry.G2hCeCAoyRCBvbza.JournalEntryPage.ShxgV6EpPIjXoJf3]{[11] Half-Villein Ledis Haral}) and Tokra Berma (@UUID[JournalEntry.G2hCeCAoyRCBvbza.JournalEntryPage.dbbjvworCMhqyWXi]{[8] Half-Villein Torrynë Berma}), each defending their family honor in a feud that everyone wants to forget.</p>\n<p>Alona sells three gallons of ale for a penny, as dictated by tradition. Her neighbors arrive with buckets and small casks to take their weekly ale home with them. Since many of the villagers lack pennies, Alona is never without a surplus of eggs, cheese, or meat that she has taken in trade.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "uSBGKX1RiCjZnsVC",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!G2hCeCAoyRCBvbza.uSBGKX1RiCjZnsVC"
+    },
+    {
+      "name": "[6] Half-Villein Wasinila Nelt",
+      "type": "text",
+      "text": {
+        "content": "<p>Wasinila is called “Mother of Cats”. This old lady has hordes of the furry felines around her dwelling. Parents tell stories that she is a witch and that the cats are misbehaving children that have been taken by the old lady as punishment.</p>",
+        "format": 1
+      },
+      "_id": "ZjEBe3p1kvFjqgXR",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!G2hCeCAoyRCBvbza.ZjEBe3p1kvFjqgXR"
+    },
+    {
+      "name": "[7] Charcoaler Anderin Asaka",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Size:</strong> 3 <strong>Quality:</strong> ★★★ <strong>Prices:</strong> Average</p>\n<p>Struggling to feed his large family, Anderin fulfills yeoman’s labor to help pay their fees. Although the smith in Drilen buys most of his charcoal, Anderin is always worried about competition from other charcoalers and frequently airs his concerns after Shesneala (the Halean service.) All of the charcoalers in the Hundred are his kin; most of his clan considers him something of a boor.</p>\n<p>His eldest son, Chakrin, has no future in the family business. Because the boy is feckless and poor at figures, Anderin despairs that Chakrin might one day inherit the franchise that he’s worked so hard to build. Chakrin’s only good qualities are his stunning good looks and clear, strong singing voice. To save his business, Anderin has arranged for the lad to serve as a solithar at the Halean Temple in Getha. With Chakrin serving Halea, Anderin’s second son, Pilar, will inherit the business.</p>",
+        "format": 1
+      },
+      "_id": "lZEgbmVeErBEvnPW",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!G2hCeCAoyRCBvbza.lZEgbmVeErBEvnPW"
+    },
+    {
+      "name": "[8] Half-Villein Torrynë Berma",
+      "type": "text",
+      "text": {
+        "content": "<p>Torrynë would be completely unremarkable except that her son Urgil (age 14) is the village idiot and possibly the world’s best thief. Urgil likes shiny things and doesn’t understand why people won’t give them to him. He has an amazing talent for stealing things no matter how well they are guarded or hidden. All of the villagers know that Urgil takes things, so they come to his mother whenever items go missing.</p>\n<p>Urgil gained a measure of notoriety in 717 when he stole the stirrup buckle from the saddle of Sir Luisan Kelic, Reblena of Jenkald. The boy made off with the buckle, despite the presence of several attentive melana, tucking the strap under the saddle skirt. The theft was discovered only after the stirrup strap slipped and deposited the Reblena in the cold mud.</p>\n<p>Rather than punish the poor boy, Sir Luisan makes sure that he gives Urgil a small trinket on the first day of the hunt. The gift seems to satisfy Urgil and he stays away from the Reblena’s horse, although others are not so lucky. Sir Luisan will personally intervene if anyone tries to harm the boy and the melana have come to treat Urgil like a mascot during the hunt’s ten-day.</p>",
+        "format": 1
+      },
+      "_id": "dbbjvworCMhqyWXi",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!G2hCeCAoyRCBvbza.dbbjvworCMhqyWXi"
+    },
+    {
+      "name": "[9] Villein Thadotes Faleren",
+      "type": "text",
+      "text": {
+        "content": "<p>Thadotes is the head of the Faleren Clan and a benevolent patriarch. Now that his children are grown and married, he hires others to work in his fields and spends most of his time gossiping over ale with Alona’s husband (@UUID[JournalEntry.G2hCeCAoyRCBvbza.JournalEntryPage.uSBGKX1RiCjZnsVC]{[5] Half-Villein Alona Dyren}). His days are filled with arranging marriage contracts and settling family issues. He often travels to Getha to visit his relatives there.</p>",
+        "format": 1
+      },
+      "_id": "K30Qo6ZXrGfApt8g",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!G2hCeCAoyRCBvbza.K30Qo6ZXrGfApt8g"
+    },
+    {
+      "name": "[10] Villein Arnil Krandar",
+      "type": "text",
+      "text": {
+        "content": "<p>Everyone that knows Arnil calls him “the Terrier.” This short, energetic man has amazing luck and inextinguishable good humor. He is open-handed, sharing his good fortune with his relatives and this trait keeps others from holding grudges against him. In a recent incident, Arnil’s oldest boy, Angus (age 16), was to be engaged to his cousin (@UUID[JournalEntry.G2hCeCAoyRCBvbza.JournalEntryPage.SHs7x3DgeZzT6z6h]{[3] Half-Villein Aratha Krandar}) but the arrangement of the dowry fell through. Rather than cry over what might have been, Arnil made a more profitable match with a distant cousin in Hakstyn that will enable the boy to farm his own land.</p>",
+        "format": 1
+      },
+      "_id": "tTwKDIZzF1JRy0RL",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!G2hCeCAoyRCBvbza.tTwKDIZzF1JRy0RL"
+    },
+    {
+      "name": "[11] Half-Villein Ledis Haral",
+      "type": "text",
+      "text": {
+        "content": "<p>Bitter over a land dispute, Ledis has been feuding over part of a woodlot with Aratha Krandar (@UUID[JournalEntry.G2hCeCAoyRCBvbza.JournalEntryPage.SHs7x3DgeZzT6z6h]{[3] Half-Villein Aratha Krandar}) for the past year. Since Aratha’s uncle is the Reeve (@UUID[JournalEntry.G2hCeCAoyRCBvbza.JournalEntryPage.jQyprkwCukEUvTul]{[14] Villein (Reeve) Taran Krandar}), Ledis thinks he’s being cheated. The fact is that Aratha’s daughter recently got engaged to Taran’s son and the woodlot in question is her dowry.</p>\n<p>Ledis does not want the land for timber but for what is hidden in the dense brush. He found an old shrine in the woods, which is not an unusual occurrence. The dozen silver pennies and the finely wrought golden brooch that he found under the altar stone where more of a surprise. Even more surprising is that the small cache seems to grow. Every time Ledis removes a penny, another takes its place. He thinks that the altar is magical or that fairies inhabit the site, so he was trying to gain ownership of the property and ensure his access to the riches of the old shrine forever.</p>\n<p>The cache actually represents the wealth of Borin the Red, one of the bandits living in Chyle Forest (see <em>Bandits of Chyle</em> in @UUID[JournalEntry.iBUHMMe2PDwTEWwn.JournalEntryPage.G1pejWNKTPiCn6Ik]{Adventure Hooks}). Borin has noticed the disappearance of some of his money but has not had the opportunity to disappear from the group long enough to investigate the matter and punish the thief.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "ShxgV6EpPIjXoJf3",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!G2hCeCAoyRCBvbza.ShxgV6EpPIjXoJf3"
+    },
+    {
+      "name": "[12] Yeoman Erphis Berma",
+      "type": "text",
+      "text": {
+        "content": "<p>Erphis is a good father and loving husband. He is the village’s champion bowman and enjoys being in charge of the beaters during the hunts. Rather than worship Larani, as most yeomen do, Erphis and his family follow their family’s tradition and are devout Haleans.</p>",
+        "format": 1
+      },
+      "_id": "ZnebEqfV79duou69",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!G2hCeCAoyRCBvbza.ZnebEqfV79duou69"
+    },
+    {
+      "name": "[13] Half-Villein (Beadle) Lanasai Nelt",
+      "type": "text",
+      "text": {
+        "content": "<p>Lanasai spends most of his time helping his neighbors find lost animals and stray children. He walks through the village whistling and chatting with one and all.</p>",
+        "format": 1
+      },
+      "_id": "iopuaPf5b9Qe6Zu9",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!G2hCeCAoyRCBvbza.iopuaPf5b9Qe6Zu9"
+    },
+    {
+      "name": "[14] Villein (Reeve) Taran Krandar",
+      "type": "text",
+      "text": {
+        "content": "<p>Taran is a lazy, manipulative man. He uses his gift of intelligence to find new and subtle ways of squeezing “gifts” from the other villagers to feather his own nest. He thinks of himself as a practical man and never asks for a bribe that is larger than the giver can afford. His neighbors tolerate this unfortunate trait during years of good harvest but avoid Taran during lean years for fear of being invited to donate to his table.</p>",
+        "format": 1
+      },
+      "_id": "jQyprkwCukEUvTul",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!G2hCeCAoyRCBvbza.jQyprkwCukEUvTul"
+    }
+  ],
+  "flags": {},
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659201929930,
+    "modifiedTime": 1659201929930,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "_id": "G2hCeCAoyRCBvbza",
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!journal!G2hCeCAoyRCBvbza"
+}

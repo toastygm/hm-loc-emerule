@@ -1,0 +1,211 @@
+{
+  "name": "The Manor Staff",
+  "pages": [
+    {
+      "name": "Amrenë Kleve",
+      "type": "text",
+      "text": {
+        "content": "<p>Amrenë (female, 23) makes the household’s butter and is a general scullery maid.</p>",
+        "format": 1
+      },
+      "_id": "E0pvZKgKZmPZwInf",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!bpGfaTp0npCu2NZ3.E0pvZKgKZmPZwInf"
+    },
+    {
+      "name": "Clas Gweren",
+      "type": "text",
+      "text": {
+        "content": "<p>Clas was a farrier for wagon trains that traded along Genin’s Trail. He heard of Sir Marby’s good fortune and offered his services as a blacksmith. Clas (male, 43) is slowing down as arthritis makes his joints ache but he hopes to pass his franchise on to his sons Bargen (20) and Sholiam (19). The boys help their father with the forge. Both are in love with Amrenë, and she enjoys leading them on a merry chase.</p>",
+        "format": 1
+      },
+      "_id": "qBh7LfxAke4Tsh7O",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!bpGfaTp0npCu2NZ3.qBh7LfxAke4Tsh7O"
+    },
+    {
+      "name": "Jilenia Gweren",
+      "type": "text",
+      "text": {
+        "content": "<p>Jilenia (female, 35) keeps the lodge’s brewhouse. She is the “heir apparent” to the kitchen, as she likes to joke, and is very popular amongst the other servants and the villagers.</p>",
+        "format": 1
+      },
+      "_id": "wTfm5mIm9xy7iF2y",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!bpGfaTp0npCu2NZ3.wTfm5mIm9xy7iF2y"
+    },
+    {
+      "name": "Klarlin Berma",
+      "type": "text",
+      "text": {
+        "content": "<p>Klarlin is the cook and head housekeeper. A sprightly lady of advancing years (she admits to 60), she is set in her ways. Since her ways seem to work year in and year out, Petry the chamberlain stays out of her way.</p>",
+        "format": 1
+      },
+      "_id": "bzIQYMpa745OCKKS",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!bpGfaTp0npCu2NZ3.bzIQYMpa745OCKKS"
+    },
+    {
+      "name": "Kordin Artusiel",
+      "type": "text",
+      "text": {
+        "content": "<p>Kordin (male, 37) hails from Harden and served with Sir Marby as a caravan guard along Genin’s Trail. When Sir Marby, or “Blue Dog” as Kordin and the boys used to call him, announced his retirement, Kordin was the first to ask if he could come along as well. Kordin is the manor’s resident huntsman. He scouts for game throughout the year in the forest.</p>",
+        "format": 1
+      },
+      "_id": "vF4dOxpVV88qGFE4",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!bpGfaTp0npCu2NZ3.vF4dOxpVV88qGFE4"
+    },
+    {
+      "name": "Nesnia Urdel",
+      "type": "text",
+      "text": {
+        "content": "<p>Nesnia is the baker. Her husband died of a fever almost ten years ago. She hasn’t remarried because her position as Sir Marby’s lover keeps her and her son, Ovrik, sheltered and fed. As she approaches thirty, however, she has started to yearn to be a mother again. Ovrik works as a general domestic in the manor house.</p>",
+        "format": 1
+      },
+      "_id": "XRJOxs6uApFKqxeA",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!bpGfaTp0npCu2NZ3.XRJOxs6uApFKqxeA"
+    },
+    {
+      "name": "Petry Ekutoshi",
+      "type": "text",
+      "text": {
+        "content": "<p>Petry (male, 54) was the chief clerk of the mercantyler company that Sir Marby worked for. Tired of sleeping under canvas, he asked for a job at Emerule. Sir Marby was overjoyed at the prospect of having such an experienced and honest man as his chamberlain.</p>",
+        "format": 1
+      },
+      "_id": "etmxyBIJOnycBXsH",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!bpGfaTp0npCu2NZ3.etmxyBIJOnycBXsH"
+    }
+  ],
+  "flags": {},
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659201929933,
+    "modifiedTime": 1659201929933,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "_id": "bpGfaTp0npCu2NZ3",
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!journal!bpGfaTp0npCu2NZ3"
+}

@@ -1,0 +1,157 @@
+{
+  "name": "The Manor Household",
+  "pages": [
+    {
+      "name": "Lady Erlyn Immen",
+      "type": "text",
+      "text": {
+        "content": "<p>Lady Erlyn is a 30-something widow selected to “look after Lysella” when Sir Chimin gave her husband’s lands (Pethasum in Dobraine Hundred) to another vassal. She receives a slight income from her dower but is content living in Emerule. She never complains and is starting to take a shine to Sir Marby.</p>",
+        "format": 1
+      },
+      "_id": "hrXhFxh7nGJkWT36",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!FvHZiySKLCPjnXPz.hrXhFxh7nGJkWT36"
+    },
+    {
+      "name": "Lady Lysella Indama",
+      "type": "text",
+      "text": {
+        "content": "<p>Lady Lysella is the young (16 year old) flirtatious daughter of the Baron of Getha. She looks like a younger version of her mother, Baroness Myrtis Indama. She is voluptuous and fair skinned with dark hair. Her eyes are striking. They are light brown, some might say golden, a family trait. Thoroughly imbued with tales of chivalric romance, she is in love with being in love. She dreams of being swept off her feet by a dashing knight who will take her to a beautiful manor draped with roses and sweet alyssum.</p>\n<p>She feels that Galdyk is her prince charming. He is a poet, a warrior, and has the strength to stand up to her father. She wants to run away with Galdyk and live her dream. The hard life of a bandit chieftain’s woman has never entered her mind and she might have second thoughts if her dream house turnsed out to be a musty cave in the wilderness.</p>",
+        "format": 1
+      },
+      "_id": "ADtLz9rczhw7JfAm",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!FvHZiySKLCPjnXPz.ADtLz9rczhw7JfAm"
+    },
+    {
+      "name": "Sir Marby “Blue Dog” Lournay",
+      "type": "text",
+      "text": {
+        "content": "<p>Sir Marby (male, 57) is an ex-adventurer who became the bailiff of Emerule after his brother finally deposed their spendthrift uncle. He spent over 20 years as a mercenary along Kaldor’s trade routes and now looks only for a rich widow who will marry him. He is an avid hunter but, like his brother, lacks the physical size to excel at jousting.</p>\n<p>He thinks that Galdyk Onaret is a young, proud lad who has let his emotions get in the way of better judgment. Despite his personal feelings, if Sir Marby captures Galdyk, the young squire will be delivered to Drilen in shackles as a traitor to the Laranian ideals of his class.</p>",
+        "format": 1
+      },
+      "_id": "2ZrwcyCRc1T3YouL",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!FvHZiySKLCPjnXPz.2ZrwcyCRc1T3YouL"
+    },
+    {
+      "name": "Squire Gaibin Asane",
+      "type": "text",
+      "text": {
+        "content": "<p>Gaibin (male, 17) has been well warned to avoid the manor’s guest, which suits him fine. He is planning to become a tournament knight after his training is done and spends all of his free time tilting at a makeshift quintain hung in the woods north of the lodge.</p>",
+        "format": 1
+      },
+      "_id": "vAVuSKxZJtGod6qt",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!FvHZiySKLCPjnXPz.vAVuSKxZJtGod6qt"
+    },
+    {
+      "name": "Wilan Baral",
+      "type": "text",
+      "text": {
+        "content": "<p>Lady Lysella's Page, Wilan (male, 12), counts himself lucky to be sent to Emerule. His work is easy since Lady Erlyn won’t let him anywhere near Lysella. Sir Marby treats him as a junior squire and the boy is usually in the company of Kordin the Huntsman.</p>",
+        "format": 1
+      },
+      "_id": "VznZVvJnE16xy0Kp",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!FvHZiySKLCPjnXPz.VznZVvJnE16xy0Kp"
+    }
+  ],
+  "flags": {},
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659201929913,
+    "modifiedTime": 1659201929913,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "_id": "FvHZiySKLCPjnXPz",
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!journal!FvHZiySKLCPjnXPz"
+}

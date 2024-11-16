@@ -1,0 +1,373 @@
+{
+  "name": "The Manor House",
+  "pages": [
+    {
+      "name": "[A] The Gatehouse",
+      "type": "text",
+      "text": {
+        "content": "<p>The gate stands open and unguarded during the day but is closed at night.</p>",
+        "format": 1
+      },
+      "_id": "DylP4FwPoShc4ko4",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!mRqupERLIOaPek9P.DylP4FwPoShc4ko4"
+    },
+    {
+      "name": "[B] The Stable",
+      "type": "text",
+      "text": {
+        "content": "<p>Sir Marby’s warhorse is here, beside his two hunters and Lady Lysella’s palfrey.</p>",
+        "format": 1
+      },
+      "_id": "xz3W90mbJoqCHmZd",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!mRqupERLIOaPek9P.xz3W90mbJoqCHmZd"
+    },
+    {
+      "name": "[C] The Smithy",
+      "type": "text",
+      "text": {
+        "content": "<p>Clas Gweren (@UUID[JournalEntry.bpGfaTp0npCu2NZ3.JournalEntryPage.qBh7LfxAke4Tsh7O]{Clas Gweren}) is a bonded Master Smith. He and his two sons, Bargen and Sholiam, care for the animals and make items for sale in the village. Clas fashions workable boar spears, traps, and arrowheads for the manor’s guests.</p>",
+        "format": 1
+      },
+      "_id": "QJkdbvJuDsEBMgtk",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!mRqupERLIOaPek9P.QJkdbvJuDsEBMgtk"
+    },
+    {
+      "name": "[D1] Tower Hill",
+      "type": "text",
+      "text": {
+        "content": "<p>The tower is built upon a small, manmade hill in the center of the courtyard.</p>",
+        "format": 1
+      },
+      "_id": "2LHnAvPMBgbe4QPH",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!mRqupERLIOaPek9P.2LHnAvPMBgbe4QPH"
+    },
+    {
+      "name": "[D2] Cellar",
+      "type": "text",
+      "text": {
+        "content": "<p>The tower cellar holds the finer things for the Baron’s table as well as emergency stocks of food and wine for the garrison.</p>",
+        "format": 1
+      },
+      "_id": "of2ZMhGMw3yiJ4Pe",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!mRqupERLIOaPek9P.of2ZMhGMw3yiJ4Pe"
+    },
+    {
+      "name": "[D3] Sir Marby’s Chamber",
+      "type": "text",
+      "text": {
+        "content": "<p>In an effort to have some respite from Lady Lysella’s tart wit and poisonous barbs, Sir Marby has temporarily moved out of the Great Hall. His quarters are spartan. He shares this space with his squire, Gaibin, and the page, Wilan. Sir Marby is an old bachelor. Having spent his life working and traveling he has never had the time nor the money to contemplate marriage. He is starting to notice Lady Erlyn’s shy smiles, however, and endures Lysella just to spend the afternoon with her.</p>",
+        "format": 1
+      },
+      "_id": "iR2MC8mzauithE3r",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!mRqupERLIOaPek9P.iR2MC8mzauithE3r"
+    },
+    {
+      "name": "[E1] The Kitchen",
+      "type": "text",
+      "text": {
+        "content": "<p>The kitchen staff sleeps here, leaving the Great Hall to the others. Klarlin cares for the manor’s ducks and chickens in the yard behind the kitchen.</p>",
+        "format": 1
+      },
+      "_id": "p6BP5DY9uJpmHz1m",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!mRqupERLIOaPek9P.p6BP5DY9uJpmHz1m"
+    },
+    {
+      "name": "[E2] Kitchen Postern Gate",
+      "type": "text",
+      "text": {
+        "content": "<p>Klarlin uses the postern to get to her garden.</p>",
+        "format": 1
+      },
+      "_id": "2fh6a7cD0w370wMw",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!mRqupERLIOaPek9P.2fh6a7cD0w370wMw"
+    },
+    {
+      "name": "[F] The Brewhouse",
+      "type": "text",
+      "text": {
+        "content": "<p>Jilenia Gweren is the smith’s wife and the manor’s alewife. Rather than compete with Alona (@UUID[JournalEntry.G2hCeCAoyRCBvbza.JournalEntryPage.uSBGKX1RiCjZnsVC]{[5] Half-Villein Alona Dyren}), the two women share recipes and often trade kegs of brew. This friendship comes in handy in Savor, when the lodge’s ale consumption quadruples.</p>",
+        "format": 1
+      },
+      "_id": "GM6sFfM5Yysm3dfX",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!mRqupERLIOaPek9P.GM6sFfM5Yysm3dfX"
+    },
+    {
+      "name": "[G1] The Storeroom and Armory",
+      "type": "text",
+      "text": {
+        "content": "<p>Sir Marby keeps the manor’s daily necessities at one end of the room and holds the militia’s weapons and salted rations at the other. The ration stores are rotated annually. Clas Gweren (@UUID[JournalEntry.mRqupERLIOaPek9P.JournalEntryPage.QJkdbvJuDsEBMgtk]{[C] The Smithy}) is responsible for maintaining the weapons. The kennels hold Sir Marby’s three coursing hounds.</p>",
+        "format": 1
+      },
+      "_id": "oqZ0wRVPoSi6hITs",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!mRqupERLIOaPek9P.oqZ0wRVPoSi6hITs"
+    },
+    {
+      "name": "[G2] The Mews",
+      "type": "text",
+      "text": {
+        "content": "<p>The Mews hold Lady Lysella’s two sparrowhawks and the goshawk that is Sir Marby’s prize possession. Sir Marby often invites the ladies to go hawking with him, as is the only time that Lysella is not being churlish or spiteful.</p>",
+        "format": 1
+      },
+      "_id": "UtohgHCAOM3bYbkY",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!mRqupERLIOaPek9P.UtohgHCAOM3bYbkY"
+    },
+    {
+      "name": "[G3] The Great Hall",
+      "type": "text",
+      "text": {
+        "content": "<p>The manor house’s staff and servants sleep and eat here. Hunting trophies cover the wall.</p>",
+        "format": 1
+      },
+      "_id": "Zcvpbl3u4Nz2MWqx",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!mRqupERLIOaPek9P.Zcvpbl3u4Nz2MWqx"
+    },
+    {
+      "name": "[G4] Lord's Chambers",
+      "type": "text",
+      "text": {
+        "content": "<p>Sir Marby has surrendered the Lord’s Chambers to his guest, Lady Lysella, and her governess. Lady Erlyn Immen shares the bed with her charge. Lysella chafes under the watchful eyes of Lady Erlyn. The ladies travel to Getha about once a month to see the Baron and discuss possible suitors with the Baroness.</p>\n<p>Unknown to anyone, Lysella keeps a lock of her lover’s hair in a locket, hidden in a hole between the stones behind the bedpost. She dreams of riding off with Galdyk to a life of landed splendor, far away from her controlling parents and the demands of being a Baron’s daughter. She dreads the prospect of an arranged marriage and has sworn to run away before walking into a temple to become shackled with some noble-born brute her mother chooses.</p>",
+        "format": 1
+      },
+      "_id": "P4zovmtikz3R5Mv1",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!mRqupERLIOaPek9P.P4zovmtikz3R5Mv1"
+    }
+  ],
+  "flags": {},
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659201929956,
+    "modifiedTime": 1659201929956,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "_id": "mRqupERLIOaPek9P",
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!journal!mRqupERLIOaPek9P"
+}

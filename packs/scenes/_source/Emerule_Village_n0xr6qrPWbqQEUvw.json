@@ -1,0 +1,676 @@
+{
+  "_id": "n0xr6qrPWbqQEUvw",
+  "name": "Emerule Village",
+  "navigation": false,
+  "navOrder": 0,
+  "navName": "",
+  "foreground": null,
+  "thumb": "worlds/conv/assets/scenes/n0xr6qrPWbqQEUvw-thumb.webp",
+  "width": 4500,
+  "height": 6000,
+  "padding": 0.25,
+  "initial": {},
+  "backgroundColor": "#999999",
+  "grid": {
+    "size": 50,
+    "type": 0,
+    "color": "#000000",
+    "alpha": 0.2,
+    "distance": 20,
+    "units": "ft"
+  },
+  "tokenVision": true,
+  "fogExploration": true,
+  "fogReset": 1635292614373,
+  "globalLight": true,
+  "globalLightThreshold": 0.7,
+  "darkness": 0,
+  "drawings": [
+    {
+      "_id": "skGJTV65fqbJtrKw",
+      "author": "Rn9jkHilxPKp2kf5",
+      "x": 5055,
+      "y": 3502,
+      "rotation": 340,
+      "z": 0,
+      "bezierFactor": 0,
+      "fillType": 0,
+      "fillColor": null,
+      "fillAlpha": 0,
+      "strokeWidth": 0,
+      "strokeColor": null,
+      "strokeAlpha": 1,
+      "text": "HYZEVEL ROAD",
+      "fontFamily": "Signika",
+      "fontSize": 60,
+      "textColor": "#000000",
+      "textAlpha": 1,
+      "hidden": true,
+      "locked": false,
+      "flags": {},
+      "texture": null,
+      "shape": {
+        "type": "r",
+        "width": 424,
+        "height": 105,
+        "points": [],
+        "radius": null
+      },
+      "_key": "!scenes.drawings!n0xr6qrPWbqQEUvw.skGJTV65fqbJtrKw"
+    },
+    {
+      "_id": "13Usp5Uf3T1qIBkb",
+      "author": "Rn9jkHilxPKp2kf5",
+      "x": 5227,
+      "y": 5284,
+      "rotation": 355,
+      "z": 0,
+      "bezierFactor": 0,
+      "fillType": 0,
+      "fillColor": null,
+      "fillAlpha": 0,
+      "strokeWidth": 0,
+      "strokeColor": null,
+      "strokeAlpha": 1,
+      "texture": null,
+      "text": "DRILEN ROAD",
+      "fontFamily": "Signika",
+      "fontSize": 60,
+      "textColor": "#000000",
+      "textAlpha": 1,
+      "hidden": true,
+      "locked": false,
+      "flags": {},
+      "shape": {
+        "type": "r",
+        "width": 424,
+        "height": 105,
+        "points": [],
+        "radius": null
+      },
+      "_key": "!scenes.drawings!n0xr6qrPWbqQEUvw.13Usp5Uf3T1qIBkb"
+    },
+    {
+      "_id": "cRoyFTzuRq6uyXIQ",
+      "author": "Rn9jkHilxPKp2kf5",
+      "x": 1222,
+      "y": 5554,
+      "rotation": 340,
+      "z": 0,
+      "bezierFactor": 0,
+      "fillType": 0,
+      "fillColor": null,
+      "fillAlpha": 0,
+      "strokeWidth": 0,
+      "strokeColor": null,
+      "strokeAlpha": 1,
+      "texture": null,
+      "text": "OMINSTRU ROAD",
+      "fontFamily": "Signika",
+      "fontSize": 60,
+      "textColor": "#000000",
+      "textAlpha": 1,
+      "hidden": true,
+      "locked": false,
+      "flags": {},
+      "shape": {
+        "type": "r",
+        "width": 424,
+        "height": 105,
+        "points": [],
+        "radius": null
+      },
+      "_key": "!scenes.drawings!n0xr6qrPWbqQEUvw.cRoyFTzuRq6uyXIQ"
+    }
+  ],
+  "tokens": [],
+  "lights": [],
+  "notes": [
+    {
+      "_id": "95GC0FHBDI9UIADG",
+      "entryId": "G2hCeCAoyRCBvbza",
+      "x": 3664,
+      "y": 4376,
+      "iconSize": 38,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "1",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-emerule/assets/journal-icon-numbers/91f7bef1_1.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "iDGEH9rSI3qb2jOh",
+      "text": "[1] Cottar Durel Arsarl",
+      "global": false,
+      "_key": "!scenes.notes!n0xr6qrPWbqQEUvw.95GC0FHBDI9UIADG"
+    },
+    {
+      "_id": "MPfZhRgDgyiinEi3",
+      "entryId": "G2hCeCAoyRCBvbza",
+      "x": 3445,
+      "y": 4405,
+      "iconSize": 38,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "2",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-emerule/assets/journal-icon-numbers/7aef8d5a_2.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "32tTqDuCssdPmMIY",
+      "text": "[2] Half-Villein Netokra Haral",
+      "global": false,
+      "_key": "!scenes.notes!n0xr6qrPWbqQEUvw.MPfZhRgDgyiinEi3"
+    },
+    {
+      "_id": "P4qtPSpdihzJqQca",
+      "entryId": "G2hCeCAoyRCBvbza",
+      "x": 3274,
+      "y": 4571,
+      "iconSize": 38,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "3",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-emerule/assets/journal-icon-numbers/b9a898f7_3.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "SHs7x3DgeZzT6z6h",
+      "text": "[3] Half-Villein Aratha Krandar",
+      "global": false,
+      "_key": "!scenes.notes!n0xr6qrPWbqQEUvw.P4qtPSpdihzJqQca"
+    },
+    {
+      "_id": "IgfPtkxuobgU94Vw",
+      "entryId": "G2hCeCAoyRCBvbza",
+      "x": 3085,
+      "y": 4637,
+      "iconSize": 38,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "4",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-emerule/assets/journal-icon-numbers/85388270_4.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "3G2wGJJ0gdNcYrPU",
+      "text": "[4] Half-Villein (Woodward) Gerl Tyun",
+      "global": false,
+      "_key": "!scenes.notes!n0xr6qrPWbqQEUvw.IgfPtkxuobgU94Vw"
+    },
+    {
+      "_id": "N0R7PZAJqtECs7ge",
+      "entryId": "G2hCeCAoyRCBvbza",
+      "x": 2911,
+      "y": 4758,
+      "iconSize": 38,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "5",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-emerule/assets/journal-icon-numbers/f17e18ad_5.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "uSBGKX1RiCjZnsVC",
+      "text": "[5] Half-Villein Alona Dyren",
+      "global": false,
+      "_key": "!scenes.notes!n0xr6qrPWbqQEUvw.N0R7PZAJqtECs7ge"
+    },
+    {
+      "_id": "2MQEzAIIH0ICQl7f",
+      "entryId": "G2hCeCAoyRCBvbza",
+      "x": 2966,
+      "y": 4984,
+      "iconSize": 38,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "6",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-emerule/assets/journal-icon-numbers/fc9e30e6_6.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "ZjEBe3p1kvFjqgXR",
+      "text": "[6] Half-Villein Wasinila Nelt",
+      "global": false,
+      "_key": "!scenes.notes!n0xr6qrPWbqQEUvw.2MQEzAIIH0ICQl7f"
+    },
+    {
+      "_id": "5d2p6ePsD1nlURZE",
+      "entryId": "G2hCeCAoyRCBvbza",
+      "x": 2977,
+      "y": 5174,
+      "iconSize": 38,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "7",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-emerule/assets/journal-icon-numbers/b30edda3_7.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "lZEgbmVeErBEvnPW",
+      "text": "[7] Charcoaler Anderin Asaka",
+      "global": false,
+      "_key": "!scenes.notes!n0xr6qrPWbqQEUvw.5d2p6ePsD1nlURZE"
+    },
+    {
+      "_id": "1ZGKxJodkswHjcRC",
+      "entryId": "G2hCeCAoyRCBvbza",
+      "x": 2743,
+      "y": 4990,
+      "iconSize": 38,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "8",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-emerule/assets/journal-icon-numbers/d1741b8c_8.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "dbbjvworCMhqyWXi",
+      "text": "[8] Half-Villein Torrynë Berma",
+      "global": false,
+      "_key": "!scenes.notes!n0xr6qrPWbqQEUvw.1ZGKxJodkswHjcRC"
+    },
+    {
+      "_id": "0rOqwklXHYgybGG7",
+      "entryId": "G2hCeCAoyRCBvbza",
+      "x": 2572,
+      "y": 5053,
+      "iconSize": 38,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "9",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-emerule/assets/journal-icon-numbers/60cd6d9_9.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "K30Qo6ZXrGfApt8g",
+      "text": "[9] Villein Thadotes Faleren",
+      "global": false,
+      "_key": "!scenes.notes!n0xr6qrPWbqQEUvw.0rOqwklXHYgybGG7"
+    },
+    {
+      "_id": "zpM1AbjZtx12YVha",
+      "entryId": "G2hCeCAoyRCBvbza",
+      "x": 2374,
+      "y": 5140,
+      "iconSize": 38,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "10",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-emerule/assets/journal-icon-numbers/62e5ec17_10.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "tTwKDIZzF1JRy0RL",
+      "text": "[10] Villein Arnil Krandar",
+      "global": false,
+      "_key": "!scenes.notes!n0xr6qrPWbqQEUvw.zpM1AbjZtx12YVha"
+    },
+    {
+      "_id": "EeKkIwqiMpifiB3q",
+      "entryId": "G2hCeCAoyRCBvbza",
+      "x": 2266,
+      "y": 5195,
+      "iconSize": 38,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "11",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-emerule/assets/journal-icon-numbers/6d608a3c_11.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "ShxgV6EpPIjXoJf3",
+      "text": "[11] Half-Villein Ledis Haral",
+      "global": false,
+      "_key": "!scenes.notes!n0xr6qrPWbqQEUvw.EeKkIwqiMpifiB3q"
+    },
+    {
+      "_id": "p3KbKalyYBtb0P3l",
+      "entryId": "G2hCeCAoyRCBvbza",
+      "x": 2106,
+      "y": 5258,
+      "iconSize": 38,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "12",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-emerule/assets/journal-icon-numbers/902f0409_12.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "ZnebEqfV79duou69",
+      "text": "[12] Yeoman Erphis Berma",
+      "global": false,
+      "_key": "!scenes.notes!n0xr6qrPWbqQEUvw.p3KbKalyYBtb0P3l"
+    },
+    {
+      "_id": "8Oaq70qBHwdnWjrw",
+      "entryId": "G2hCeCAoyRCBvbza",
+      "x": 1945,
+      "y": 5419,
+      "iconSize": 38,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "13",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-emerule/assets/journal-icon-numbers/a4c0cd76_13.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "iopuaPf5b9Qe6Zu9",
+      "text": "[13] Half-Villein (Beadle) Lanasai Nelt",
+      "global": false,
+      "_key": "!scenes.notes!n0xr6qrPWbqQEUvw.8Oaq70qBHwdnWjrw"
+    },
+    {
+      "_id": "IzxT47fPlRzSqjfM",
+      "entryId": "G2hCeCAoyRCBvbza",
+      "x": 1830,
+      "y": 5674,
+      "iconSize": 38,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "14",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-emerule/assets/journal-icon-numbers/a29abe1b_14.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "jQyprkwCukEUvTul",
+      "text": "[14] Villein (Reeve) Taran Krandar",
+      "global": false,
+      "_key": "!scenes.notes!n0xr6qrPWbqQEUvw.IzxT47fPlRzSqjfM"
+    }
+  ],
+  "sounds": [],
+  "templates": [],
+  "tiles": [],
+  "walls": [],
+  "playlist": null,
+  "playlistSound": null,
+  "journal": null,
+  "weather": "",
+  "flags": {
+    "hm-loc-emerule": {
+      "imported": "1.0.0"
+    },
+    "scene-packer": {
+      "source-module": "hm-loc-emerule",
+      "packed-with-version": "2.3.17",
+      "sourceId": "Scene.HLeBkd0pDFSjNGIn",
+      "hash": "9f8b12f2206402a4f7444ff707de43af18baf177"
+    },
+    "cf": {
+      "id": null,
+      "path": "Emerule",
+      "color": "#000000"
+    },
+    "core": {
+      "sourceId": "Compendium.hm-loc-emerule.scenes.n0xr6qrPWbqQEUvw"
+    }
+  },
+  "background": {
+    "src": "modules/hm-loc-emerule/assets/scenes/emerule-village.png",
+    "offsetX": 0,
+    "offsetY": 0,
+    "scaleX": 1,
+    "scaleY": 1,
+    "rotation": 0,
+    "tint": null
+  },
+  "foregroundElevation": null,
+  "fogOverlay": null,
+  "fogExploredColor": null,
+  "fogUnexploredColor": null,
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659201943256,
+    "modifiedTime": 1659201943256,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "active": false,
+  "folder": null,
+  "sort": 0,
+  "_key": "!scenes!n0xr6qrPWbqQEUvw"
+}
