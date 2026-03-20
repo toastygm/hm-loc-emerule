@@ -645,7 +645,7 @@
     }
   },
   "background": {
-    "src": "modules/hm-loc-emerule/assets/scenes/emerule-village.png",
+    "src": "modules/hm-loc-emerule/assets/scenes/emerule-village.webp",
     "offsetX": 0,
     "offsetY": 0,
     "scaleX": 1,
